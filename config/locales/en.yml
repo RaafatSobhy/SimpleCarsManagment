@@ -1,0 +1,11 @@
+---
+en:
+  hello: Hello world
+  text:
+    car_can_not_be_created: Car can not be created
+    car_can_not_be_deleted: Car can not be deleted
+    car_can_not_be_updated: Car can not be updated
+    car_type_can_not_be_created: Car type can not be created
+    car_type_can_not_be_deleted: Car type can not be deleted
+    car_type_can_not_be_updated: Car type can not be updated
+    invalid_api_key: Invalid api key

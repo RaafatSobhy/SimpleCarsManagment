@@ -1,0 +1,7 @@
+{
+  "name": "cars",
+  "private": true,
+  "dependencies": {
+    "proxy": "http://localhost:3001/"
+  }
+}
